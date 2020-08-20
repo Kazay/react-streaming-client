@@ -2,10 +2,7 @@ import React from "react";
 import flv from "flv.js";
 import { connect } from "react-redux";
 import { fetchStream } from "../../actions";
-<<<<<<< HEAD
 import { STREAMING_SERVER_URL } from "../../config";
-=======
->>>>>>> b0d4df27a3cde4f614980bd75c386458659eb4e7
 
 class StreamShow extends React.Component {
   constructor(props) {

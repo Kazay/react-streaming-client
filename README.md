@@ -1,6 +1,6 @@
 ## Setting up
 
-**This application require a RESTFUL api and a RMTP server**
+**This application requires a RESTFUL api and a RMTP server**
 
 Rename configSample.js to config.js and add your google OAuth 2.0 client id
 
